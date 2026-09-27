@@ -1,4 +1,4 @@
-# Security Portfolio — Danny O'Neal
+# Security Portfolio
 
 Software engineer (Go, Kubernetes, cloud) transitioning into offensive security. This repo collects lab and CTF work with an emphasis on **methodology and clear reporting**, not flag counts — every flagship engagement is documented the way a real client deliverable would be.
 
